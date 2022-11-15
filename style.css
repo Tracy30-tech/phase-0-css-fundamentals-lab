@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+p #featured-property {
+  width: 800px;
+}
+
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+figure {
+  text-align: center;
+}
